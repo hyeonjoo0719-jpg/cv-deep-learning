@@ -1,5 +1,6 @@
 강의자료/
 .venv/
+.venv-torchtext/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
